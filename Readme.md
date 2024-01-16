@@ -6,5 +6,5 @@
 
 |Date|Title|Content|
 |---|:---:|---|
-|240115|[STT](https://github.com/yamuzin-oksusu/SSAFY_Front/tree/master/240115_STT)|한국어 STT(Speech-to-text)서비스 구현|
-
+|240115|[STT](https://github.com/yamuzin-oksusu/SSAFY_Front/tree/master/240115_STT)|한국어 STT(Speech-to-Text)서비스 구현|
+|240116|[TTS](https://github.com/yamuzin-oksusu/SSAFY_Front/tree/master/240116_TTS)|한국어 TTS(Text-to-Speech서비스 구현|
