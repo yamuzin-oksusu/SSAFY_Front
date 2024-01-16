@@ -6,6 +6,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## STT 구현
+## TTS 구현
+![TTS_prac](./img/image.png)
 
-![STT prac](./img/image.png)
+select script 추가 구현을 통해 목소리 변환이 가능함 [참고](https://www.youtube.com/watch?v=3oDNqHZ7UKY&ab_channel=GreatStack)
